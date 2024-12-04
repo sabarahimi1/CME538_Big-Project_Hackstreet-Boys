@@ -3,11 +3,15 @@
 Toronto’s bike lanes are under threat. Premier Doug Ford’s government plans to remove bike lanes through the newly enforced BILL212 from three key streets: Bloor Street, University Avenue, and Yonge Street. Ford argues these lanes are a major contributor to gridlock, claiming they’ve 'brought traffic in our cities to a standstill.' He also believes bike lanes are misplaced on major roads. However, these claims don’t align with the reality. Ford’s argument overlooks the vital role bike lanes play in reducing car-bike conflicts and creating safer, greener urban spaces. 
 
 
-In this project data was collected from the City of Toronto Open Data Portal (hyperlink it). We chose to analyze the following datasets:
+In this project data was collected from the City of Toronto Open Data Portal (hyperlink it). We chose to analyze the following datasets, they are the listed in the recommended 'reading' order:
 
 - City Wards (25-Ward Model): Shapefile that contains the ward boundaries that divide the City into      specific administrative areas, used to cluster locations for spatial analysis. The data can be downloaded here in a GeoJson format: https://open.toronto.ca/dataset/city-wards/.
 
 - Community Council Boundaries: Defines the areas governed by community councils, used to provide a geographic framework for organizing and interpreting trends. The data can be downloaded here in a GeoJson format: https://open.toronto.ca/dataset/community-council-boundaries/.
+
+- Demographics Data: Provides essential insights into Toronto's population characteristics, enabling analysis of socio-economic factors and their relationship to urban infrastructure and equity issues. The data can be downloaded here in a GeoJson format: 
+
+- Zoning By-Law Data: Outlines land use designations across Toronto, enabling analysis of urban development patterns and their relationship to infrastructure, planning, and community needs.The data can be downloaded here in a GeoJson format: 
 
 - Cycling Network: Shows the existing cycling network across the City, the type of bike lane, the year it was installed and upgraded, and its location. The data can be downloaded here in a GeoJson format: https://open.toronto.ca/dataset/cycling-network/.
 
