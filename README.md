@@ -28,13 +28,15 @@ The following folders consist of the following items:
 - Clean Data: This folder contains the cleaned GeoJSON files for all datasets. These files serve as the refined versions of the data and are utilized in other notebooks for analysis and visualization purposes.
 - Clustering: Consists of the notebook used to conduct clustering (unsupervised machine learning) on the ward profile demographics data. 
 - Datasets: folder contains various datasets related to the City of Toronto. It is recommended that they are read in the following order:
-  1. Ward and District Data: Details about the city's administrative divisions, including ward boundaries and district-level information.
-  2. City of Toronto Collision Data: Data regarding traffic collisions, including details like location, time, and type of collision.
-  3. City of Toronto Demographics Data: Information about the city's population, including age, gender, income, and other demographic factors.   NOTE: Read the clustering notebook here.
-  4. Cycling Network Data: Information on Toronto's cycling infrastructure, including bike lanes, trails, and related amenities.
-  5. City of Toronto Zoning By-Law Data: Data related to land use, zoning regulations, and city planning.
-  - Group5_Big_Project_Presentation.pdf: Presentation showing the EDA process
-  - Overall Folium Map.ipynb: Contains the folium map that represents the entire project (excluding demographics and zoning data). 
+  
+1. Ward and District Data: Details about the city's administrative divisions, including ward boundaries and district-level information.
+2. City of Toronto Collision Data: Data regarding traffic collisions, including details like location, time, and type of collision.
+3. City of Toronto Demographics Data: Information about the city's population, including age, gender, income, and other demographic factors.   NOTE: Read the clustering notebook here.
+4. Cycling Network Data: Information on Toronto's cycling infrastructure, including bike lanes, trails, and related amenities.
+5. City of Toronto Zoning By-Law Data: Data related to land use, zoning regulations, and city planning.
+  
+- Group5_Big_Project_Presentation.pdf: Presentation showing the EDA process
+- Overall Folium Map.ipynb: Contains the folium map that represents the entire project (excluding demographics and zoning data). 
       
 ## Links to Medium Articles:
 
