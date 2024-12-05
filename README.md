@@ -15,7 +15,7 @@ In this project, data was collected from the City of Toronto Open Data Portal. W
 
 - Cycling Network: Shows the existing cycling network across the City, the type of bike lane, the year it was installed and upgraded, and its location. The data can be downloaded here in a GeoJson format: https://open.toronto.ca/dataset/cycling-network/.
 
-- Traffic Collisions Open Data: Contains the location of all car-bicycle collisions from 2014–2024, including temporal data (hour, day of week, month, year) of when the collisions occurred. The data can be downloaded here in a GeoJson format: https://data.torontopolice.on.ca/datasets/TorontoPS::traffic-collisions-open-data-asr-t-tbl-001/about.
+- Traffic Collisions Data: Contains the location of all car-bicycle collisions from 2014–2024, including temporal data (hour, day of week, month, year) of when the collisions occurred. The data can be downloaded here in a GeoJson format: https://data.torontopolice.on.ca/datasets/TorontoPS::traffic-collisions-open-data-asr-t-tbl-001/about.
 
 Since the files for Traffic Collision, stated above, are too large to be stored directly in the repository, they were saved in a folder located outside the repository named 'data_files'. Hence, all the datasets were called in the following manner:
 
@@ -40,4 +40,16 @@ The following folders consist of the following items:
       
 ## Links to Medium Articles:
 
-ADD THE LINKS ONCE ARTICLE IS PUBLISHED.
+1. Premier Doug Ford’s Government Passes Bill 212: Should the Bike Lanes be Removed? LINK: https://medium.com/@hackstreetboyz/premier-doug-fords-government-passes-bill-212-should-the-bike-lanes-be-removed-3a7439b62cd9
+2. yhj
+
+
+## Contribution of Teammates
+
+Saba Rahimi: Data cleaning and analysis for cycling network data notebook, compiled entire Ward and District Data and City of Toronto Zoning By-Law Data folders and notebooks, responsible for explanation of data processign cycle, ward data and zoning data in the presentation. Equal participant of medium journal for bicycle lane removal. 
+
+Aaliya Shaikh: Compiled entire City of Toronto Collision Data folder and notebook. Responsible for introduction, temporal analysis and collision data explanation in the presentation. Equal participant of medium journal for bicycle lane removal. 
+
+Andrew Del Rosso: Compiled entire City of Toronto Demographics Data folder and notebook. Conducted Spatial EDA in cycling network data notebook. Responsible for cycling network and suggested solutions explanation in the presentation. Equal participant of medium journal for bicycle lane removal. 
+
+Amir Vahdat: Compiled clustering folder and notebook. Responsible for clustering and demographic data explanation in the presentation. Completed clustering medium article. 
